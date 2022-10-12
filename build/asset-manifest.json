@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acb97ae1.css",
+    "main.js": "/static/js/main.b6994d52.js",
+    "static/media/Manage money-rafiki 1.svg": "/static/media/Manage money-rafiki 1.69a533be7578a92d730fc91d661ebf1c.svg",
+    "static/media/img-login.svg": "/static/media/img-login.7bf45d1c292834bc1c0dadd45bd91534.svg",
+    "static/media/Online report-amico.svg": "/static/media/Online report-amico.ca0d304f98916ff584d649c422ba7a90.svg",
+    "static/media/Bookshop-bro.svg": "/static/media/Bookshop-bro.aa333e4957e6b5d79da6c65f0d55527d.svg",
+    "static/media/Self checkout-amico.svg": "/static/media/Self checkout-amico.459e4ab0fd012c0b7a61da365605bef5.svg",
+    "static/media/Specs-amico.svg": "/static/media/Specs-amico.c26353693f933f5d24e4ced896b6bea3.svg",
+    "static/media/Logo2-modelo.svg": "/static/media/Logo2-modelo.5ad2889f4a56360187260781dc524e60.svg",
+    "index.html": "/index.html",
+    "main.acb97ae1.css.map": "/static/css/main.acb97ae1.css.map",
+    "main.b6994d52.js.map": "/static/js/main.b6994d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb97ae1.css",
+    "static/js/main.b6994d52.js"
+  ]
+}
